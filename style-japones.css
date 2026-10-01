@@ -1,0 +1,7 @@
+body{
+    background-image: url(imagenes/img_cuso-japones/fondo-japones.png);
+}
+
+.container_btn{
+    background-image: linear-gradient(90deg, #fdffff, #d00101, #f7f7f7);
+}
